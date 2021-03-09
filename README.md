@@ -49,7 +49,7 @@ ________________________________________________________________________________
 
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
 
-
+______________________________________________________________________________________________________________________________________________________________________________
 
 <img height="25" src="https://img.shields.io/badge/Reach me Out!- 📫-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
 
