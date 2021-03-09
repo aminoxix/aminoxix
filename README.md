@@ -29,4 +29,4 @@ ________________________________________________________________________________
 
   
 #### STATS . . .
-<img src = "https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 👏">
+<img src = "https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥">
