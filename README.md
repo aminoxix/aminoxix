@@ -23,8 +23,12 @@ ________________________________________________________________________________
 #### CODING EXPERIENCE ON!
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
-<p align="left"><img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/android-original-wordmark.svg" alt="android" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/c-original.svg" alt="c" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
-<img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/java-original.svg" alt="java" width="30" height="30"/> <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/linux-original.svg" alt="linux" width="30" height="30"/>  <img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/python-original.svg" alt="python" width="30" height="30"/> </p>
+<p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/c-original.svg" alt="c" width="30" height="30"/> 
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/java-original.svg" alt="java" width="30" height="30"/> 
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/linux-original.svg" alt="linux" width="30" height="30"/> 
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/python-original.svg" alt="python" width="30" height="30"/> 
 
 
   
