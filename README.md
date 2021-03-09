@@ -51,4 +51,5 @@ ________________________________________________________________________________
 
 
 :mailbox: **Reach me Out!!**
+
 [![Twitter Badge](https://img.shields.io/badge/-@prasad_saab-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prasad_saab)](https://twitter.com/prasad_saab) [![Linkedin Badge](https://img.shields.io/badge/-Anshumaan_Kumar_Prasad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) [![Mail Badge](https://img.shields.io/badge/-@anshumaankumarprasad-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anshumaankumarprasad) [![Mail Badge](https://img.shields.io/badge/-AMINOs_CG-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anshumaankrprasad76@gmail.com)<img src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/Developer.gif" width="65px"></h1>
