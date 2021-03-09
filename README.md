@@ -10,8 +10,6 @@ ________________________________________________________________________________
 
 
 
-#### CODING EXPERIENCE ON!
-
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
 <p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/c-original.svg" alt="c" width="30" height="30"/> 
