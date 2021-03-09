@@ -20,10 +20,11 @@ ________________________________________________________________________________
 <p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/android-original-wordmark.svg" alt="android" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/c-original.svg" alt="c" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/google-cloud.svg" alt="python" width="30" height="30"/>
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/java-original.svg" alt="java" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/linux-original.svg" alt="linux" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/python-original.svg" alt="python" width="30" height="30"/> 
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/google-cloud.svg" alt="python" width="30" height="30"/>
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/ibm_cloud-icon.svg" alt="python" width="30" height="30"/>
   
 ________________________________________________________________________________________________________________________________________________________________________________
 
