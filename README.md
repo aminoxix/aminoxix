@@ -30,3 +30,5 @@ ________________________________________________________________________________
   
 #### STATS . . .
 <img src = "https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥">
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
