@@ -6,6 +6,10 @@
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
+<img src = "https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥">
+
+
+
 #### CODING EXPERIENCE ON!
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
@@ -15,13 +19,6 @@ ________________________________________________________________________________
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/java-original.svg" alt="java" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/linux-original.svg" alt="linux" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/python-original.svg" alt="python" width="30" height="30"/> 
-
-
-  
-#### STATS . . .
-<img src = "https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥">
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
