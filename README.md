@@ -18,10 +18,10 @@ ________________________________________________________________________________
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
 <p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/discord.svg" alt="discord" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/windows.svg" alt="windows" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/android.svg" alt="android" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/c-original.svg" alt="c" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/windows.svg" alt="windows" width="30" height="30"/>
+<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/android.svg" alt="android" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/google-cloud.svg" alt="python" width="30" height="30"/>
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/java-original.svg" alt="java" width="30" height="30"/> 
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/linux-original.svg" alt="linux" width="30" height="30"/> 
