@@ -7,7 +7,8 @@
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
 [![Mail Badge](https://img.shields.io/badge/-AMINOs_CG-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anshumaankrprasad76@gmail.com)
 
-ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA. ɪ ᴡᴏᴜʟᴅ ʟᴏᴠᴇ ᴛᴏ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴡɪᴛʜ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅᴇs, ᴅᴏɪɴɢ ᴘʀᴏᴊᴇᴄᴛs, ᴍᴏʀᴇᴏᴠᴇʀ ɪɴᴛᴇʀɴsʜɪᴘs & ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ.
+
+ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA.
 
 
 <p>
@@ -19,7 +20,6 @@
 
 
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
-
 
 
 [![](https://img.shields.io/badge/</>%20With%20❤️%20By-DSCG-green)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px"></h1>
