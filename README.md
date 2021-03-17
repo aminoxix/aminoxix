@@ -10,6 +10,9 @@
 ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA. ɪ ᴡᴏᴜʟᴅ ʟᴏᴠᴇ ᴛᴏ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴡɪᴛʜ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅᴇs, ᴅᴏɪɴɢ ᴘʀᴏᴊᴇᴄᴛs, ᴍᴏʀᴇᴏᴠᴇʀ ɪɴᴛᴇʀɴsʜɪᴘs & ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ.
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushboogoel01&show_icons=true&locale=en&layout=compact" alt="khushboogoel01" /></p>
+
+
 - 💬 > ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏ ᴛᴇᴄʜɴɪᴄᴀʟ ɪssᴜᴇs, ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʙᴀsɪᴄs & ʜᴀᴄᴋᴀᴛʜᴏɴs
 - ⚡ > **ғᴜɴ ғᴀᴄᴛ** : ɪ ᴊᴜsᴛ ʟᴏᴠᴇ ᴛᴏ ʜᴇᴀʀ ᴜɴᴅᴇʀɢʀᴏᴜɴᴅ ʀᴀᴘᴘᴇʀs, ᴡʜɪʟᴇ ᴄᴏᴅɪɴɢ
 - 🌱 > ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ, ᴄᴘᴘ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ & ɢɪᴛʜᴜʙ
@@ -17,7 +20,6 @@
 - 🤔 > ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ
 - 😄 > **ᴘʀᴏɴᴏᴜɴs** : ᴀᴍɪɴᴏ, AMINOs_CG, ᴀɴsʜᴜ, ʜᴀʀᴅʏ
 - 👯 >  ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ MNCs
-
 
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
 <p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/discord.svg" alt="discord" width="30" height="30"/>
