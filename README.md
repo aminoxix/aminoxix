@@ -48,9 +48,4 @@ ________________________________________________________________________________
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anshumaan_Kumar_Prasad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
-
-
-
-
 [![](https://img.shields.io/badge/</>%20With%20❤️%20By-DSCG-green)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px"></h1>
