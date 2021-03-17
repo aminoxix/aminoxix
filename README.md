@@ -9,27 +9,6 @@
 
 ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA. ɪ ᴡᴏᴜʟᴅ ʟᴏᴠᴇ ᴛᴏ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴡɪᴛʜ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅᴇs, ᴅᴏɪɴɢ ᴘʀᴏᴊᴇᴄᴛs, ᴍᴏʀᴇᴏᴠᴇʀ ɪɴᴛᴇʀɴsʜɪᴘs & ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ.
 
-- 💬 > ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏ ᴛᴇᴄʜɴɪᴄᴀʟ ɪssᴜᴇs, ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ʙᴀsɪᴄs & ʜᴀᴄᴋᴀᴛʜᴏɴs
-- ⚡ > **ғᴜɴ ғᴀᴄᴛ** : ɪ ᴊᴜsᴛ ʟᴏᴠᴇ ᴛᴏ ʜᴇᴀʀ ᴜɴᴅᴇʀɢʀᴏᴜɴᴅ ʀᴀᴘᴘᴇʀs, ᴡʜɪʟᴇ ᴄᴏᴅɪɴɢ
-- 🌱 > ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴅᴀᴛᴀ sᴄɪᴇɴᴄᴇ, ᴄᴘᴘ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ & ɢɪᴛʜᴜʙ
-- 🔭 > ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴘᴇʀsᴜɪɴɢ ʙ.ᴛᴇᴄʜ ɪɴ ɪɴғᴏʀᴍᴀᴛɪᴏɴ ᴛᴇᴄʜɴᴏʟᴏɢʏ
-- 🤔 > ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ᴡɪᴛʜ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴ
-- 😄 > **ᴘʀᴏɴᴏᴜɴs** : ᴀᴍɪɴᴏ, AMINOs_CG, ᴀɴsʜᴜ, ʜᴀʀᴅʏ
-
-
-<img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
-<p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/discord.svg" alt="discord" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/c-original.svg" alt="c" width="30" height="30"/> 
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/windows.svg" alt="windows" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/android.svg" alt="android" width="30" height="30"/> 
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/google-cloud.svg" alt="python" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/java-original.svg" alt="java" width="30" height="30"/> 
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/linux-original.svg" alt="linux" width="30" height="30"/> 
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/python-original.svg" alt="python" width="30" height="30"/> 
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/ibm_cloud-icon.svg" alt="ibm_cloud" width="30" height="30"/>
-<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/wordpress.svg" alt="wordpress" width="30" height="30"/>
-
 ______________________________________________________________________________________________________________________________________________________________________________
 
 <p>
