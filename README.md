@@ -18,6 +18,7 @@
 - 😄 > **ᴘʀᴏɴᴏᴜɴs** : ᴀᴍɪɴᴏ, AMINOs_CG, ᴀɴsʜᴜ, ʜᴀʀᴅʏ
 - 👯 >  ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ MNCs
 
+
 <img height="25" src="https://img.shields.io/badge/Languages and  tools- 📚-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
 <p align="left"><img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/discord.svg" alt="discord" width="30" height="30"/>
 <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/c-original.svg" alt="c" width="30" height="30"/> 
@@ -43,9 +44,6 @@ ________________________________________________________________________________
 
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
 
-______________________________________________________________________________________________________________________________________________________________________________
-
-<img height="25" src="https://img.shields.io/badge/Reach me Out!- 📫-green.svg?&style=for-the-badge&logo=amino19&logoColor=yellow" />
 
 [![Twitter Badge](https://img.shields.io/badge/-@prasad_saab-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prasad_saab)](https://twitter.com/prasad_saab) 
 [![Linkedin Badge](https://img.shields.io/badge/-Anshumaan_Kumar_Prasad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
