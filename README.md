@@ -5,7 +5,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19) 
 [![Repos Badge](https://badges.pufler.dev/repos/amino19)](https://github.com/amino19?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
-[![Insta Badge](https://img.shields.io/badge/-@anshumaankumarprasad-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anshumaankumarprasad)
+[![Insta Badge](https://img.shields.io/badge/-anshumaankumarprasad-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anshumaankumarprasad)
 [![Twitter Badge](https://img.shields.io/badge/-@prasad_saab-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prasad_saab)](https://twitter.com/prasad_saab)
 [![Mail Badge](https://img.shields.io/badge/-AMINOs_CG-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anshumaankrprasad76@gmail.com)
 
@@ -38,13 +38,10 @@ ________________________________________________________________________________
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
-  
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 </p>
 
-______________________________________________________________________________________________________________________________________________________________________________
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
 
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
