@@ -12,7 +12,10 @@
 _____________________________________________________________________________________________________________________________________________________________________________
 
 
-<img src = "https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥">
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+</p>
 
 
 
@@ -39,10 +42,6 @@ ________________________________________________________________________________
 - 😄 > **ᴘʀᴏɴᴏᴜɴs** : ᴀᴍɪɴᴏ, AMINOs_CG, ᴀɴsʜᴜ, ʜᴀʀᴅʏ
 - 👯 >  ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ MNCs
 
-________________________________________________________________________________________________________________________________________________________________________________
-
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
 
 ________________________________________________________________________________________________________________________________________________________________________________
 
