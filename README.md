@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&" alt="amino19"/>
 </p>
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
