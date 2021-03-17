@@ -5,8 +5,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19) 
 [![Repos Badge](https://badges.pufler.dev/repos/amino19)](https://github.com/amino19?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
-[![Insta Badge](https://img.shields.io/badge/-Instagram-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/anshumaankumarprasad)
-[![Twitter Badge](https://img.shields.io/badge/-@prasad_saab-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prasad_saab)](https://twitter.com/prasad_saab)
 [![Mail Badge](https://img.shields.io/badge/-AMINOs_CG-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anshumaankrprasad76@gmail.com)
 
 ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA. ɪ ᴡᴏᴜʟᴅ ʟᴏᴠᴇ ᴛᴏ sᴘᴇɴᴅ ᴍᴏsᴛ ᴏғ ᴛʜᴇ ᴛɪᴍᴇ ᴡɪᴛʜ ʟᴇᴀʀɴɪɴɢ ᴄᴏᴅᴇs, ᴅᴏɪɴɢ ᴘʀᴏᴊᴇᴄᴛs, ᴍᴏʀᴇᴏᴠᴇʀ ɪɴᴛᴇʀɴsʜɪᴘs & ᴍᴀᴋɪɴɢ ᴍᴏɴᴇʏ.
