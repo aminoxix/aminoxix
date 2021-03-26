@@ -10,6 +10,16 @@
 
 ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA.
 
+```
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
+{
+    cout << "GitHub Lovers with C++! ";
+    return 0;
+}
+```
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
@@ -17,7 +27,6 @@
 </p>
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-
 
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
 
