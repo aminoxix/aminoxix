@@ -14,7 +14,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-int main ( )
+int main()
 {
     cout << "GitHub Lovers with C++! ";
     return 0;
