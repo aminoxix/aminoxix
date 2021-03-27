@@ -31,4 +31,4 @@ int main()
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
 
 
-[![](https://img.shields.io/badge/</>%20With%20❤️%20By-DSCG-green)](https://github.com/Developer-Student-Chhattisgarh)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px"></h1>
+[![](https://img.shields.io/badge/</>%20With%20❤️%20By-DSCG-green)](https://github.com/Developer-Student-Chhattisgarh)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
