@@ -11,8 +11,6 @@
 ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=amino19&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/amino19)
-
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&" alt="amino19"/>
@@ -22,5 +20,6 @@
 
 ![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=amino19&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/amino19)
 
 [![](https://img.shields.io/badge/</>%20With%20❤️%20By-DSCG-green)](https://github.com/Developer-Student-Chhattisgarh)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
