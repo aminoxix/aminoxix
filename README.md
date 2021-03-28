@@ -11,7 +11,7 @@
 ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA.
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amino19" alt="amino19" /></a></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=amino19&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/amino19)
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
