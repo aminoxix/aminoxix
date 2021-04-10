@@ -1,4 +1,4 @@
-## HI, MYSELF AMINO! <img align="center" src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Handshake.gif" height="30px">
+## HEY, AMINOS! <img align="center" src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Handshake.gif" height="30px">
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hey,AMINOs!-Welcome:D-orange.svg?style=flat&logo=github)](https://github.com/amino19) 
 [![Profile](https://Visitor-badge.glitch.me/badge?page_id=amino19.profileviews-badge)](https://github.com/amino19) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasad_saab?style=social)](https://twitter.com/Vinit_Shahdeo)
