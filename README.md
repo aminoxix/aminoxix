@@ -19,6 +19,6 @@
 
 <img width="96.5%" src="https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4"/>
 
-<img width="97%" src="https://github-profile-trophy.vercel.app/?username=amino19&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/amino19"/>
+[![trophies](https://github-profile-trophy.vercel.app/?username=amino19&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/amino19)
 
 [![](https://img.shields.io/badge/</>%20With%20❤️%20By-DSCG-green)](https://github.com/Developer-Student-Chhattisgarh)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
