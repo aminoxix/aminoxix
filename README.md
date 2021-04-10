@@ -18,7 +18,7 @@
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 
-![AMINO's github activity graph](https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4)
+<img src="https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=amino19&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/amino19)
 
