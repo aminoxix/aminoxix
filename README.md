@@ -1,7 +1,7 @@
 ## HEY, AMINOS! <img align="center" src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Handshake.gif" height="30px">
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hey,AMINOs!-Welcome:D-orange.svg?style=flat&logo=github)](https://github.com/amino19) 
 [![Profile](https://Visitor-badge.glitch.me/badge?page_id=amino19.profileviews-badge)](https://github.com/amino19) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prasad_saab?style=social)](https://twitter.com/Vinit_Shahdeo)
+[![Twitter Follow](https://img.shields.io/twitter/follow/prasad_saab?style=social)](https://twitter.com/prasad_saab)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19) 
 [![Repos Badge](https://badges.pufler.dev/repos/amino19)](https://github.com/amino19?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
