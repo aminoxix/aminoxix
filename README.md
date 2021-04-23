@@ -1,14 +1,4 @@
 ## HEY, AMINOS! <img align="center" src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Handshake.gif" height="30px">
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hey,AMINOs!-Welcome:D-orange.svg?style=flat&logo=github)](https://github.com/amino19) 
-[![Profile](https://Visitor-badge.glitch.me/badge?page_id=amino19.profileviews-badge)](https://github.com/amino19) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/prasad_saab?style=social)](https://twitter.com/prasad_saab)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19) 
-[![Repos Badge](https://badges.pufler.dev/repos/amino19)](https://github.com/amino19?tab=repositories)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/) 
-[![Mail Badge](https://img.shields.io/badge/-AMINOs_CG-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:anshumaankrprasad76@gmail.com)
-
-
-ɪ'ᴍ Aɴsʜᴜᴍᴀᴀɴ ᴋᴜᴍᴀʀ ᴘʀᴀsᴀᴅ, ᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ғʀᴏᴍ Sʜʀɪ Sʜᴀɴᴋᴀʀᴀᴄʜᴀʀʏᴀ Tᴇᴄʜɴɪᴄᴀʟ Cᴀᴍᴘᴜs (s𝟷), ʙʜɪʟᴀɪ, ʀᴇᴘʀᴇsᴇɴᴛs INDIA.
 
 <p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats 🔥" />
