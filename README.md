@@ -12,11 +12,19 @@
   </p>
 </div>
 
+![Image](https://user-images.githubusercontent.com/75872316/115849141-38a3fc80-a442-11eb-96e0-8fd6c7cb0d3f.jpg)
+
 <p align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </p>
 
-![Image](https://user-images.githubusercontent.com/75872316/115849141-38a3fc80-a442-11eb-96e0-8fd6c7cb0d3f.jpg)
+<p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats ?" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&" alt="amino19"/>
+</p>
+       
+
+
 ```
 + Experienced Network Specialist with a demonstrated history of working in the E-Learning Industry. 
 + Skilled in WordPress, Google Cloud Platform, Data Science, C++, IBM Cloud, GitHub and Microsoft Learn Student. 
@@ -25,4 +33,3 @@
 ```
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
-
