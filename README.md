@@ -9,10 +9,12 @@
       <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a> 
     <a href = "mailto:anshumaankrprasad76@gmail.com" target = "_blank">
       <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img width="100%" src="https://user-images.githubusercontent.com/75872316/115849141-38a3fc80-a442-11eb-96e0-8fd6c7cb0d3f.jpg">
   </p>
 </div>
 
+<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+
+![Image](https://user-images.githubusercontent.com/75872316/115849141-38a3fc80-a442-11eb-96e0-8fd6c7cb0d3f.jpg)
 ```
 + Experienced Network Specialist with a demonstrated history of working in the E-Learning Industry. 
 + Skilled in WordPress, Google Cloud Platform, Data Science, C++, IBM Cloud, GitHub and Microsoft Learn Student. 
