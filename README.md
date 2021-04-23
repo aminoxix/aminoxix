@@ -12,7 +12,9 @@
   </p>
 </div>
 
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<p align="center">
+  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+</p>
 
 ![Image](https://user-images.githubusercontent.com/75872316/115849141-38a3fc80-a442-11eb-96e0-8fd6c7cb0d3f.jpg)
 ```
