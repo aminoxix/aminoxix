@@ -1,5 +1,9 @@
 ## HEY, AMINOS! <img align="center" src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Handshake.gif" height="30px">
 
+`
+Experienced Network Specialist with a demonstrated history of working in the E-Learning Industry. Skilled in WordPress, Google Cloud Platform, Data Science, C++, IBM Cloud, GitHub and Microsoft Student Learn. Strong Information Technology Professional with a Bachelor of Technology - BTech focussed in Information Technology from Shri Shankaracharya Technical Campus, Bhilai.
+`
+
 <img width="96.5%" src="https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4"/>
 
 <p>
