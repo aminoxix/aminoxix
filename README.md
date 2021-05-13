@@ -9,8 +9,8 @@
 </p>
 
 <p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats ?" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&" alt="amino19"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=amino19&theme=highcontrast&show_icons=true&custom_title= AMINO's GitHub Stats ?" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=amino19&" alt="amino19"/>
 </p>
        
 
