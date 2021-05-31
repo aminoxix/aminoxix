@@ -21,6 +21,55 @@
 + Strong Information Technology Professional, with a Bachelor of Technology - BTech focussed in Information Technology 
   from Shri Shankaracharya Technical Campus, Bhilai. 
 ```
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+      <tr>
+        <td>
+         <strong><a href="https://medium.com/@amino19">Blog rel. "Open Source"</a></strong>
+        </td>
+        <td>
+          <strong><a href="https://medium.com/@amino19">Postman Student Programs!</a></strong>
+        </td>
+        <td>
+           <strong><a href="https://medium.com/@amino19">Stay tune...</a></strong>
+         </td>
+      </tr>
+      <tr>
+        <td>
+          <a href="https://amino19.medium.com/open-source-opportunities-20b23db9e5a">
+            <img
+              width="350px"
+              height="150px"
+              alt="Article on Open Source"
+              src="https://miro.medium.com/max/1920/1*SmopyECix_b7dpj-jHwz7Q.jpeg"
+            />
+          </a>
+        </td>
+        <td>
+          <a href="https://medium.com/@amino19">
+            <img
+              width="350px"
+              height="150px"
+              alt="Check out my NPM packages"
+              src="https://blog.postman.com/wp-content/uploads/2021/01/student-program-hero.png"
+            />
+          </a>
+        </td>
+        <td>
+          <a href="https://medium.com/@amino19">
+            <img
+              width="350px"
+              height="150px"
+              alt="Coming soon.."
+              src="https://qphs.fs.quoracdn.net/main-qimg-0ea2e168b4c6cfffc31868153ee3e95a"
+            />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <p align="center">
     <a href="https://twitter.com/prasad_saab/" target="_blank">
