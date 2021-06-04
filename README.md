@@ -2,8 +2,8 @@
   <h2 align="center"> < / ☮ > </h2>
 </div>
 
-![Image](https://user-images.githubusercontent.com/75872316/115849141-38a3fc80-a442-11eb-96e0-8fd6c7cb0d3f.jpg)
-
+![Image](https://user-images.githubusercontent.com/5880908/92062256-48ad8580-ed66-11ea-8e47-c2d8bfc51891.png)
+  
 <p align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 </p>
@@ -82,7 +82,7 @@
       <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
   
-<img width="96.5%" src="https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4"/>
+<img width="100%" src="https://activity-graph.herokuapp.com/graph?username=amino19&theme=dracula&layout=compact&title_color=FF69B4"/>
 
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
