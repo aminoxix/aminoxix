@@ -1,1 +1,1 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?:heart:)](https://github.com/amino19)<img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/amino19) <img src="https://github.com/amino19/amino19/blob/main/Profile%20designer/Developer.gif" width="65px">
