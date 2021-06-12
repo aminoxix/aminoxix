@@ -4,20 +4,10 @@
   </a>
 </h1>
 
-
-<a href="https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="mailto:anshumaankrprasad76@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/prasad_saab">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/anshumaankumarprasad/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
-</a>
-<a href="https://amino19.medium.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<br />
+<p align="center">
+  <a href="https://twitter.com/prasad_saab" alt="Twitter"><img src="https://img.icons8.com/doodle/48/000000/twitter--v1.png" width="40"  height="40"/></a>
+  <a href="https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/" alt="Linkedin"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" width="40"  height="40"/></a>
+  <a href="https://amino19.medium.com/" alt="Medium"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png" width="40"  height="40"/></a>
+  <a href="https://www.instagram.com/anshumaankumarprasad/" alt="Instagram"><img src="https://img.icons8.com/doodle/50/000000/instagram-new.png" width="40"  height="40"/></a>
+  <a href="mailto:anshumaankrprasad76@gmail.com" alt="Contact me"><img src="https://img.icons8.com/doodle/48/000000/apple-mail.png" width="40"  height="40"/></a>
+</p>
