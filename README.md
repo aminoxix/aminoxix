@@ -1,3 +1,8 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Err+here's+aminos+🇮🇳..;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <p align="center">
   <a href="#">
     <img height="40px" src="https://img.shields.io/badge/-Anshumaan_Kumar_Prasad-0d1117?style=for-the-badge"><br>
