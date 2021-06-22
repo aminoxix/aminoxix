@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
   <a href="#"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Earth"></a>
   <a href="mailto:anshumaankrprasad76@gmail.com"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://wa.me/919425200288"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=WhatsApp"></a>
+  <a href="https:instagram.com/anshumaankumarprasad"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Instagram"></a>
   <a href="https://discord.com/users/782637039526215717"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Discord"></a>
   <a href="https://twitter.com/aminostwt"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Twitter"></a>
 </p>
