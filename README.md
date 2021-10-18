@@ -16,6 +16,7 @@
 </br>
 </p>
 <p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><br />
 <a href="https://discord.gg/MVujzTBqed" alt="DEVSTRONS' Discord">
   <img src="https://img.shields.io/discord/857641826953854987?color=blue&label=DEVSTRONS'&logo=discord" /></a>
 </p>
