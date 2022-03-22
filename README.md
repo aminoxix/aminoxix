@@ -4,8 +4,8 @@
   </a>
 </h1>
 <p align="center">
-  <a href="https://twitter.com/aminostwt" alt="Twitter Follow">
-    <img src="https://img.shields.io/twitter/follow/aminostwt.svg?label=Follow+:+aminostwt&style=social" /></a>
+  <a href="https://twitter.com/aminoxix" alt="Twitter Follow">
+    <img src="https://img.shields.io/twitter/follow/aminoxix.svg?label=Follow+:+aminoxix&style=social" /></a>
   <a href="https://linktr.ee/aminol9" alt="LinkTree">
     <img src="https://komarev.com/ghpvc/?username=amino19&style=flat-square&color=4c8ed9"> </a>
   <a href="https://www.linkedin.com/in/anshumaan-kumar-prasad-19-amino/" alt="LinkedIn Follow">
