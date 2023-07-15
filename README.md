@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/Anshumaan_Kumar_Prasad-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aminoxix/"/></a><br><br>
   <a href="https://www.polywork.com/aminoxix" alt="Polywork">
     <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/></a>
-  <a href="https://www.polywork.com/aminoxix" alt="Polywork">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aminoxix&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"></a><br><br>
+  <br />
   <a href="https://www.polywork.com/aminoxix" alt="Polywork">
     <img width="370px" src="https://github-readme-stats.vercel.app/api?username=aminoxix&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" /></a>
   <a href="https://www.polywork.com/aminoxix" alt="Polywork">
