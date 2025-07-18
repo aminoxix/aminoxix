@@ -9,7 +9,7 @@
   <a href="https://aminoxix.vercel.app" alt="Polywork">
     <img src="https://komarev.com/ghpvc/?username=aminoxix&style=flat-square&color=4c8ed9"> </a>
   <a href="https://www.linkedin.com/in/aminoxix" alt="LinkedIn Follow">
-    <img src="https://custom-icon-badges.demolab.com/badge/aminoxix-0A66C2?logo=linkedin-white&logoColor=fff"/></a><br><br>
+    <img src="https://custom-icon-badges.demolab.com/badge/Anshumaan%20Kumar%20Prasad-0A66C2?logo=linkedin-white&logoColor=fff"/></a><br><br>
   <a href="https://aminoxix.vercel.app" alt="Polywork">
     <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/></a>
   <br />
