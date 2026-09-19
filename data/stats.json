@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-09-19",
+  "contributions12m": 1875,
+  "activeDays": 290,
+  "longestStreak": 26,
+  "weekly": [
+    15,
+    15,
+    15,
+    22,
+    8,
+    41,
+    25,
+    37,
+    59,
+    49,
+    30,
+    16,
+    23,
+    44,
+    40,
+    43,
+    35,
+    25,
+    35,
+    51,
+    39,
+    42,
+    34,
+    27,
+    31,
+    46,
+    70,
+    54,
+    39,
+    34,
+    53,
+    15,
+    13,
+    32,
+    30,
+    27,
+    61,
+    27,
+    14,
+    24,
+    9,
+    12,
+    42,
+    30,
+    11,
+    45,
+    51,
+    62,
+    35,
+    81,
+    84,
+    67
+  ],
+  "yearly": {
+    "2020": 1,
+    "2021": 1338,
+    "2022": 233,
+    "2023": 190,
+    "2024": 382,
+    "2025": 990,
+    "2026": 1444
+  },
+  "mergedPRs": 95,
+  "externalRepos": 50,
+  "byOwner": [
+    [
+      "layer5io",
+      23
+    ],
+    [
+      "meshery",
+      13
+    ],
+    [
+      "bugtrons",
+      11
+    ],
+    [
+      "devstrons",
+      10
+    ],
+    [
+      "asyncapi",
+      5
+    ],
+    [
+      "vinitshahdeo",
+      4
+    ],
+    [
+      "TheAlgorithms",
+      4
+    ],
+    [
+      "Divyansh2012",
+      3
+    ],
+    [
+      "devicons",
+      2
+    ],
+    [
+      "service-mesh-performance",
+      2
+    ],
+    [
+      "meshery-extensions",
+      2
+    ],
+    [
+      "EddieHubCommunity",
+      2
+    ],
+    [
+      "coding-connoisseurs-foet",
+      1
+    ],
+    [
+      "chaoss",
+      1
+    ],
+    [
+      "felixfaisal",
+      1
+    ],
+    [
+      "forscht",
+      1
+    ],
+    [
+      "shivaniii24",
+      1
+    ],
+    [
+      "AWS-User-Group-Jaipur-Rajasthan",
+      1
+    ],
+    [
+      "service-mesh-patterns",
+      1
+    ],
+    [
+      "cncf",
+      1
+    ],
+    [
+      "jenkins-x",
+      1
+    ],
+    [
+      "smartinternz02",
+      1
+    ],
+    [
+      "payalsamal",
+      1
+    ],
+    [
+      "github-craftwork",
+      1
+    ],
+    [
+      "firstcontributions",
+      1
+    ],
+    [
+      "zero-to-mastery",
+      1
+    ]
+  ],
+  "focus": {
+    "commits": 69,
+    "pullRequests": 3,
+    "reviews": 0,
+    "issues": 0,
+    "private": 1802
+  }
+}

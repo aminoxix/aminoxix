@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="112" viewBox="0 0 830 112" role="img" aria-label="Contribution overview" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1628"/><stop offset="1" stop-color="#0d2242"/></linearGradient>
+  <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#58a6ff" stop-opacity=".5"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+  <linearGradient id="barh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+  <linearGradient id="barv" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#1f6feb"/><stop offset="1" stop-color="#58a6ff"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="829" height="111" rx="12" fill="url(#bg)" stroke="#1d4270"/>
+<rect x="14.0" y="14" width="191.5" height="84" rx="8" fill="#0c2140"/>
+<text x="30.0" y="52.0" font-size="30" fill="#58a6ff" font-weight="700" text-anchor="start">1,875</text>
+<text x="30.0" y="72.0" font-size="13" fill="#e6f0ff" font-weight="600" text-anchor="start">contributions</text>
+<text x="30.0" y="88.0" font-size="10.5" fill="#8fa8c8" font-weight="400" text-anchor="start">last 12 months, private included</text>
+<rect x="217.5" y="14" width="191.5" height="84" rx="8" fill="#0c2140"/>
+<text x="233.5" y="52.0" font-size="30" fill="#58a6ff" font-weight="700" text-anchor="start">95</text>
+<text x="233.5" y="72.0" font-size="13" fill="#e6f0ff" font-weight="600" text-anchor="start">merged PRs</text>
+<text x="233.5" y="88.0" font-size="10.5" fill="#8fa8c8" font-weight="400" text-anchor="start">across 50 repos I don't own</text>
+<rect x="421.0" y="14" width="191.5" height="84" rx="8" fill="#0c2140"/>
+<text x="437.0" y="52.0" font-size="30" fill="#58a6ff" font-weight="700" text-anchor="start">290</text>
+<text x="437.0" y="72.0" font-size="13" fill="#e6f0ff" font-weight="600" text-anchor="start">active days</text>
+<text x="437.0" y="88.0" font-size="10.5" fill="#8fa8c8" font-weight="400" text-anchor="start">out of the last 365</text>
+<rect x="624.5" y="14" width="191.5" height="84" rx="8" fill="#0c2140"/>
+<text x="640.5" y="52.0" font-size="30" fill="#58a6ff" font-weight="700" text-anchor="start">26</text>
+<text x="640.5" y="72.0" font-size="13" fill="#e6f0ff" font-weight="600" text-anchor="start">day streak</text>
+<text x="640.5" y="88.0" font-size="10.5" fill="#8fa8c8" font-weight="400" text-anchor="start">longest run in 12 months</text>
+</svg>
