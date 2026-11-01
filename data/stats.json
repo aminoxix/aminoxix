@@ -1,10 +1,9 @@
 {
-  "generatedAt": "2026-10-31",
+  "generatedAt": "2026-11-01",
   "contributions12m": 1284,
   "activeDays": 227,
   "longestStreak": 14,
   "weekly": [
-    6,
     3,
     9,
     10,
@@ -55,7 +54,8 @@
     0,
     48,
     149,
-    152
+    152,
+    0
   ],
   "yearly": {
     "2020": 1,
