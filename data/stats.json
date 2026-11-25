@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-24",
-  "contributions12m": 1479,
-  "activeDays": 229,
+  "generatedAt": "2026-11-25",
+  "contributions12m": 1552,
+  "activeDays": 230,
   "longestStreak": 14,
   "weekly": [
     6,
@@ -55,7 +55,7 @@
     45,
     44,
     74,
-    47
+    120
   ],
   "yearly": {
     "2020": 1,
@@ -64,7 +64,7 @@
     "2023": 190,
     "2024": 382,
     "2025": 543,
-    "2026": 1451
+    "2026": 1524
   },
   "mergedPRs": 95,
   "externalRepos": 50,
@@ -175,9 +175,9 @@
     ]
   ],
   "focus": {
-    "commits": 880,
-    "pullRequests": 270,
-    "reviews": 140,
+    "commits": 944,
+    "pullRequests": 274,
+    "reviews": 145,
     "issues": 0,
     "private": 181
   }
